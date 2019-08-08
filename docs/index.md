@@ -1,8 +1,41 @@
 
-# Earthmetry
-
 ![](/images/top-banner.jpg)
 
+# We bring this to you by
 
+
+  - Collecting, validating and cross-linking data spread across many domains, formats, sources and databases
+  - Identifying actionable insights through cutting-edge data mining and AI techniques
+
+
+# Introducing 
+
+![](/images/Logo1x.png)
+
+Our first solutions will address the energy sector in India with a data analytics and visualization platform for delivering insights. Once we have a viable approach, we will aim to bring you more geographies and domains.
+
+
+# You could be 
+
+  - Government agency in-charge of policy-making
+  - Think-tank that advises major stakeholders
+  - Company doing business in this domain
+  - Investor in or lender looking to evaluate ROI and manage risks
+  - Advisory or consulting company to prepare plans and strategies
+
+
+# We are a passionate team!
+
+
+## Gautam Pradhan
+
+
+![](GP_WebsitePhoto.jpg)
+
+`
+<a href="www.linkedin.com/in/gautamnilambarpradhan">
+  <img src="/images/GP_WebsitePhoto.jpg" alt="" style="width:200px;height:200px;border:0;">
+</a>
+`
 
 
