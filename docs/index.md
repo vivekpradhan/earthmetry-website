@@ -7,3 +7,6 @@
 <meta name="msapplication-TileColor" content="#2d89ef">
 <meta name="msapplication-config" content="/assets/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
+
+
+# This is the earthmetry website
