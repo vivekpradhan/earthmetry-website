@@ -30,8 +30,6 @@ Our first solutions will address the energy sector in India with a data analytic
 ## Gautam Pradhan
 
 
-![](GP_WebsitePhoto.jpg)
-
 `
 <a href="www.linkedin.com/in/gautamnilambarpradhan">
   <img src="/images/GP_WebsitePhoto.jpg" alt="" style="width:200px;height:200px;border:0;">
