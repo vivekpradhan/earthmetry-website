@@ -1,5 +1,5 @@
 
-![](/images/top-banner.jpg)
+<img src="/images/top-banner.jpg" alt="" style="width:1920px;height:1080px;border:0;">
 
 # We bring this to you by
 
@@ -10,7 +10,7 @@
 
 # Introducing 
 
-![](/images/Logo1x.png)
+<img src="/images/Logo1x.png" alt="" style="border:0;">
 
 Our first solutions will address the energy sector in India with a data analytics and visualization platform for delivering insights. Once we have a viable approach, we will aim to bring you more geographies and domains.
 
@@ -26,15 +26,9 @@ Our first solutions will address the energy sector in India with a data analytic
 
 # We are a passionate team!
 
-
-## Gautam Pradhan
-
-
-
 <a href="https://www.linkedin.com/in/gautamnilambarpradhan" target="_blank">
-  <img src="/images/GP_WebsitePhoto.jpg" alt="" style="width:200px;height:200px;border:0;">
+  <img src="/images/GP_WebsitePhoto.jpg" alt="" style="width:200px;height:250px;border:0;">
 </a>
-
 
 
 
