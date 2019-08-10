@@ -26,8 +26,6 @@ Our first offering will address the energy sector in India with a data analytics
 
 # We are a passionate team!
 
-<p 
-
 <a href="https://www.linkedin.com/in/gautamnilambarpradhan" target="_blank">
   <img src="/images/GP_WebsitePhoto.jpg" alt="" style="width:200px;height:250px;border:0;">
 </a>
@@ -35,8 +33,6 @@ Our first offering will address the energy sector in India with a data analytics
 <a href="https://www.linkedin.com/in/gautamnilambarpradhan" target="_blank">
   <img src="/images/GP_WebsitePhoto.jpg" alt="" style="width:200px;height:250px;border:0;">
 </a>
-
-</p>
 
 # Reach out to us
 
