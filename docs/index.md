@@ -1,7 +1,7 @@
 
 <img src="/images/top-banner.jpg" alt="" style="border:0;">
 
-# We bring this to you by
+# We can achieve this by
 
 <img src="/images/data.png" alt="" style="width:150px;height:150px;border:0;">
 
@@ -13,11 +13,11 @@ Collecting, validating and cross-linking data spread across many domains, format
 Identifying actionable insights through cutting-edge data mining and AI techniques
 
 
-# Introducing
+# Our product will
 
 <img src="/images/Logo1x.png" alt="" style="border:0;">
 
-Our first offering will address the energy sector in India with a data analytics and visualization platform for delivering actionable insights. Once we have a viable approach, we will aim to bring you more geographies and domains.
+address the energy sector in India with a data analytics and visualization platform for delivering actionable insights. Once we have a viable approach, we will aim to bring you more geographies and domains.
 
 
 # You could be any stakeholder
@@ -41,6 +41,12 @@ Investor in or lender to various entities
 <img src="/images/consultant.png" alt="" style="width:150px;height:150px;border:0;">
 
 Advisory or consulting firm
+
+# We bring value to you by
+
+Ensuring your experts are analyzing and deciding rather than collecting or managing data
+
+Providing a cloud-based solution that is accessible anywhere with no IT investments on your side
 
 
 # We are a passionate team!
