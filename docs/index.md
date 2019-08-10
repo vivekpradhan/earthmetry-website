@@ -22,11 +22,25 @@ Our first offering will address the energy sector in India with a data analytics
 
 # You could be any stakeholder
 
-  - Government agency that formulates policy
-  - Think-tank or university that engages in research
-  - Company executing or managing projects
-  - Investor in or lender to various entities
-  - Advisory or consulting firm
+<img src="/images/govt.png" alt="" style="width:150px;height:150px;border:0;">
+
+Government agency that formulates policy
+
+<img src="/images/research.png" alt="" style="width:150px;height:150px;border:0;">
+
+Think-tank or university that engages in research
+
+<img src="/images/company.png" alt="" style="width:150px;height:150px;border:0;">
+
+Company executing or managing projects
+
+<img src="/images/currency-black.png" alt="" style="width:150px;height:150px;border:0;">
+
+Investor in or lender to various entities
+
+<img src="/images/consultant.png" alt="" style="width:150px;height:150px;border:0;">
+
+Advisory or consulting firm
 
 
 # We are a passionate team!
@@ -35,7 +49,7 @@ Our first offering will address the energy sector in India with a data analytics
   <img src="/images/GP_WebsitePhoto.jpg" alt="" style="width:200px;height:250px;border:0;">
 </a>
 
-<a href="https://www.linkedin.com/in/gautamnilambarpradhan" target="_blank">
+<a href="https://www.linkedin.com/in/vivek-pradhan-35618654/" target="_blank">
   <img src="/images/GP_WebsitePhoto.jpg" alt="" style="width:200px;height:250px;border:0;">
 </a>
 
