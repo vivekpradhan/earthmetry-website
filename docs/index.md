@@ -1,5 +1,5 @@
 
-<img src="/images/top-banner.jpg" alt="" style="width:1920px;height:1080px;border:0;">
+<img src="/images/top-banner.jpg" alt="" style="border:0;">
 
 # We bring this to you by
 
