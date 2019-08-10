@@ -30,6 +30,12 @@ Our first solutions will address the energy sector in India with a data analytic
   <img src="/images/GP_WebsitePhoto.jpg" alt="" style="width:200px;height:250px;border:0;">
 </a>
 
+<a href="https://www.linkedin.com/in/gautamnilambarpradhan" target="_blank">
+  <img src="/images/GP_WebsitePhoto.jpg" alt="" style="width:200px;height:250px;border:0;">
+</a>
 
+
+
+# Reach out to us
 
 
