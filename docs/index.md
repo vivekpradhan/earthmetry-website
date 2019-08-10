@@ -13,11 +13,13 @@ Collecting, validating and cross-linking data spread across many domains, format
 Identifying actionable insights through cutting-edge data mining and AI techniques
 
 
-# Our product will
+# Our product
 
-<img src="/images/Logo1x.png" alt="" style="border:0;">
+<img src="/images/logo.png" alt="" style="border:0;">
 
-address the energy sector in India with a data analytics and visualization platform for delivering actionable insights. Once we have a viable approach, we will aim to bring you more geographies and domains.
+Will address the energy sector in India with a data analytics and visualization platform for delivering actionable insights
+
+Once we have a viable approach, we will aim to bring you more geographies and domains.
 
 
 # You could be any stakeholder
