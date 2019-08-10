@@ -56,7 +56,7 @@ Providing a cloud-based solution that is accessible anywhere with no IT investme
 </a>
 
 <a href="https://www.linkedin.com/in/vivek-pradhan-35618654/" target="_blank">
-  <img src="/images/GP_WebsitePhoto.jpg" alt="" style="width:200px;height:250px;border:0;">
+  <img src="/images/VP_WebsitePhoto.jpg" alt="" style="width:200px;height:250px;border:0;">
 </a>
 
 # Reach out to us
