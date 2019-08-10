@@ -3,19 +3,24 @@
 
 # We bring this to you by
 
-
-  - Collecting, validating and cross-linking data spread across many domains, formats, sources and databases
-  - Identifying actionable insights through cutting-edge data mining and AI techniques
+<img src="/images/data.png" alt="" style="width:150px;height:150px;border:0;">
 
 
-# Introducing... 
+Collecting, validating and cross-linking data spread across many domains, formats, sources and databases
+
+<img src="/images/science.png" alt="" style="width:150px;height:150px;border:0;">
+
+Identifying actionable insights through cutting-edge data mining and AI techniques
+
+
+# Introducing
 
 <img src="/images/Logo1x.png" alt="" style="border:0;">
 
 Our first offering will address the energy sector in India with a data analytics and visualization platform for delivering actionable insights. Once we have a viable approach, we will aim to bring you more geographies and domains.
 
 
-# You could be any stakeholder in these domains
+# You could be any stakeholder
 
   - Government agency that formulates policy
   - Think-tank or university that engages in research
