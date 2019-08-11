@@ -22,7 +22,7 @@ Will address the energy sector in India with a data analytics and visualization 
 Once we have a viable approach, we will aim to bring you more geographies and domains.
 
 
-# You could be any stakeholder
+# Supporting all players in the ecosystem
 
 <img src="/images/govt.png" alt="" style="width:150px;height:150px;border:0;">
 
@@ -48,7 +48,7 @@ Advisory or consulting firm
 
 Ensuring your experts are analyzing and deciding rather than collecting or managing data
 
-Providing a cloud-based solution that is accessible anywhere with no IT investments on your side
+Providing a browser-based, cloud-hosted solution that is accessible anywhere with no IT investments on your side
 
 
 # We are a passionate team!
