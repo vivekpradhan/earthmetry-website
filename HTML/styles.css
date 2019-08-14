@@ -70,6 +70,7 @@ nav {
 .contact-form button {
     width: 100%;
     background-color: #fc813d;
+	border: 0;
 }
 
 /* footer */
