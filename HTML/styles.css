@@ -1,7 +1,7 @@
 /* styles.css */
 
 /* hack required for preventing navbar from covering section header.*/
-#about, #area, #people, #contact {
+#how, #what, #who, #team, #contact {
     padding-top: 5rem;
 }
 
