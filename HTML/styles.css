@@ -9,6 +9,7 @@
 
 nav {
     width: 100%;
+	align-items: right;
 }
 
 .nav-div {
@@ -26,7 +27,6 @@ nav {
     color: white;
     height: 25rem;
     display: flex;
-    align-items: center;
 }
 
 #cover-caption {
@@ -34,29 +34,39 @@ nav {
     background-color: rgba(100,100,100,0.5);
 }
 
-/* About */
+/* How */
 
-.about-item {
+.how-item {
     width: 15rem;
 }
 
-.about-item img{
+.how-item img{
     width: 50%;
 }
 
-/* area */
-.area-item {
+/* What */
+
+.what-item {
+    width: 15rem;
+}
+
+.what-item img{
+    width: 50%;
+}
+
+/* who */
+.who-item {
     width: 10rem;
 }
 
-.area-item img{
+.who-item img{
     width: 50%;
 }
 
 
-/* people */
+/* team */
 
-.people-item {
+.team-item {
     width: 18rem;
 }
 
