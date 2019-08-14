@@ -17,7 +17,10 @@ nav {
 
 
 /* cover */
-#cover div.row{
+
+
+
+#cover div.cover-banner{
     background: #222 url("img/road_cover.jpg") no-repeat left center;
     background-size: cover;
     color: white;
@@ -31,16 +34,32 @@ nav {
     background-color: rgba(100,100,100,0.5);
 }
 
-
-/* about */
+/* About */
 
 .about-item {
-    width: 18rem;
-    margin-left: 1rem;
+    width: 15rem;
 }
 
-.about-item.first{
+.about-item img{
+    width: 50%;
 }
+
+/* area */
+.area-item {
+    width: 10rem;
+}
+
+.area-item img{
+    width: 50%;
+}
+
+
+/* people */
+
+.people-item {
+    width: 18rem;
+}
+
 
 /* contact */
 
