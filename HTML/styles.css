@@ -1,9 +1,14 @@
 /* styles.css */
 
-/* hack required for preventing navbar from covering section header.*/
+h1 {
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+/* hack required for preventing navbar from covering section header.
 #how, #what, #who, #team, #contact {
     padding-top: 5rem;
-}
+}*/
 
 /* nav */
 
@@ -83,6 +88,13 @@ nav {
     background-color: #fc813d;
 	border: 0;
 }
+
+.contact-form button:not(:disabled):not(.disabled):active,
+.contact-form button:hover,
+.contact-form button:focus{
+    background-color: #8b4513;
+}
+
 
 /* footer */
 .footer {
