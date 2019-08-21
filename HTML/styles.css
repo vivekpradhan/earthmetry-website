@@ -5,6 +5,15 @@ h1 {
     margin-top: 2rem;
 }
 
+.card {
+    padding-top: 1rem;
+}
+
+.linkedin {
+    padding-top: 0rem;
+    border: none;
+}
+
 /* hack required for preventing navbar from covering section header.
 #how, #what, #who, #team, #contact {
     padding-top: 5rem;
@@ -93,6 +102,13 @@ nav {
 .contact-form button:hover,
 .contact-form button:focus{
     background-color: #8b4513;
+}
+
+.contact-links{
+    margin-top: 1rem;
+}
+.contact-icon{
+    height: 2rem;
 }
 
 
